@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Generals Eastside Rugby Clug
 email: info@generalsrugby.com
-description: "Girls club rugby in Portland, OR with players from schools throughout the area."
+description: Girls club rugby in Portland, OR with players from schools throughout the area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
