@@ -1,1 +1,1 @@
-# generalsrugby.github.io
+# generalsrugby.com
